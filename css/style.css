@@ -1,0 +1,55 @@
+div{
+
+
+    
+    width: 1207px;
+        margin: auto;
+        background-color: #f0f1ee;
+        padding: 70px;
+        text-align: center;
+        font-size: 25px;
+    }
+    
+    h1{
+        color: rgb(70 92 170 / 65%);
+        font-size: 42px;
+        margin: 45px;
+    text-align: center;}
+    
+    h1 {}
+    
+    h2{
+        margin: 0%; 
+        margin: 15px 31px;
+    font-size: 35px;}
+    
+    span{
+        color:#9090f2;
+    }
+    
+    span{
+        color: rgb(144, 144, 242);
+    }
+    
+    u{
+        color: rgb(55, 69, 219);
+        font-style: italic;
+    }
+    
+     a{
+        width: 100px;
+
+     margin: 0px 20px;
+     padding: 0px 20px;
+    }
+        
+    img{
+         width: 500px;
+         height: 500px;
+         display: block;
+         margin: auto;
+         border-radius: 50%;
+         object-fit: cover;
+
+    }}
+}
